@@ -106,3 +106,5 @@ migrations/
 !migrations/__init__.py
 
 whoosh_index/
+
+fabfile.py
