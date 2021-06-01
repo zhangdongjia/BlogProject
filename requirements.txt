@@ -55,7 +55,7 @@ service-identity==17.0.0
 six==1.10.0
 sqlparse==0.2.3
 Unidecode==0.4.20
-urllib3==1.21.1
+urllib3==1.26.5
 w3lib==1.17.0
 webencodings==0.5.1
 Whoosh==2.7.4
