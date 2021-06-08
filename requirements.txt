@@ -35,7 +35,7 @@ numpy==1.13.1
 olefile==0.44
 packaging==16.8
 parsel==1.2.0
-Pillow==4.1.1
+Pillow==8.2.0
 pyasn1==0.3.1
 pyasn1-modules==0.0.10
 pycparser==2.18
