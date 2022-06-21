@@ -31,7 +31,7 @@ markdown2==2.3.4
 matplotlib==2.0.2
 mccabe==0.6.1
 mistune==0.7.4
-numpy==1.13.1
+numpy==1.22.0
 olefile==0.44
 packaging==16.8
 parsel==1.2.0
